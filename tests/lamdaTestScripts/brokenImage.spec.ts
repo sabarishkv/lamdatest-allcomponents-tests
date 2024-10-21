@@ -1,7 +1,5 @@
 import { test } from "@playwright/test";
 import {faker} from '@faker-js/faker'
-import { LargeNumberLike } from "crypto";
-import { an } from "@faker-js/faker/dist/airline-C5Qwd7_q";
 
 //Sources:
 //https://www.youtube.com/watch?v=4G8c7BwHY5s&ab_channel=LetCodewithKoushik
